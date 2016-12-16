@@ -1,0 +1,1 @@
+This a version of snake game which is compiled on linux and run on console.
